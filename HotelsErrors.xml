@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Marriott Phoenix Airport</Name>
+    <Phone>480-967-6600</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1101</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.3">
+    <Name>Hilton Phoenix Resort</Name>
+    <Address>
+      <Number>10000</Number>
+      <Street>E South Mountain Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85042</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.7">
+    <Name>Scottsdale Resort</Name>
+    <Phone>480-948-7666</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>7700</Number>
+      <Street>E McCormick Pkwy</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85258</Zip>
+  </Hotel>
+  
+  <Hotel Rating="4.1">
+    <Name>Tempe Mission Palms</Name>
+    <Name>Tempe Inn</Name>
+    <Phone>480-894-1400</Phone>
+    <Phone>800-547-8705</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>60</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+</Hotel>
