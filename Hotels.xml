@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://iirakan1.github.io/cse445-assignment4/Hotels.xsd">
-  
+
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Habor">
+    <Address>
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.5">
     <Name>Marriott Phoenix Airport</Name>
     <Phone>480-967-6600</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address>
       <Number>1101</Number>
       <Street>N 44th St</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85008</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.3">
     <Name>Hilton Phoenix Resort</Name>
     <Phone>602-997-2626</Phone>
@@ -39,32 +41,34 @@
       <Zip>85042</Zip>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.7">
     <Name>Scottsdale Resort</Name>
     <Phone>480-948-7666</Phone>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address>
       <Number>7700</Number>
       <Street>E McCormick Pkwy</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
       <Zip>85258</Zip>
+      <NearestAirport>Scottsdale Airport</NearestAirport>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.1">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
     <Phone>800-547-8705</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address>
       <Number>60</Number>
       <Street>E 5th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.6">
     <Name>Phoenix Convention Center Hotel</Name>
     <Phone>602-333-0000</Phone>
@@ -76,20 +80,21 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.4">
     <Name>Mesa Grand Hotel</Name>
     <Phone>480-898-8300</Phone>
     <Phone>877-637-2492</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address>
       <Number>1600</Number>
       <Street>S Country Club Dr</Street>
       <City>Mesa</City>
       <State>AZ</State>
       <Zip>85210</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.8">
     <Name>Chandler Luxury Suites</Name>
     <Phone>480-899-1000</Phone>
@@ -101,20 +106,21 @@
       <Zip>85226</Zip>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.0">
     <Name>Gilbert Gateway Inn</Name>
     <Phone>480-545-9000</Phone>
     <Phone>888-545-9001</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address>
       <Number>1550</Number>
       <Street>N Gilbert Rd</Street>
       <City>Gilbert</City>
       <State>AZ</State>
       <Zip>85234</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.3">
     <Name>Glendale Plaza Hotel</Name>
     <Phone>623-934-9000</Phone>
@@ -126,18 +132,19 @@
       <Zip>85305</Zip>
     </Address>
   </Hotel>
-  
+
   <Hotel Rating="4.5">
     <Name>Paradise Valley Resort</Name>
     <Phone>480-948-2100</Phone>
     <Phone>800-528-8282</Phone>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address>
       <Number>5594</Number>
       <Street>E Lincoln Dr</Street>
       <City>Paradise Valley</City>
       <State>AZ</State>
       <Zip>85253</Zip>
+      <NearestAirport>Scottsdale Airport</NearestAirport>
     </Address>
   </Hotel>
-  
+
 </Hotels>
